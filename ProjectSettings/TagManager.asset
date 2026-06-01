@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Ground
+  - Ramp
+  - Platform
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Ramp
+  - Enemies
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Parallax
+    uniqueID: 4276628091
+    locked: 0
+  - name: Ramp
+    uniqueID: 3676299791
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3490004411
+    locked: 0
+  - name: Objects
+    uniqueID: 961401393
+    locked: 0
+  - name: Entities
+    uniqueID: 269942919
+    locked: 0
+  - name: FrontObjects
+    uniqueID: 1418829957
+    locked: 0
+  m_RenderingLayers:
+  - Default
